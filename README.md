@@ -1,29 +1,15 @@
-## Responsive Ecommerce Website :shopping: :open_file_folder:
-Hi everyone! :purple_heart:
+## Description
 
-This is a very simple e-commerce website for a fictitious company called *Phillou* dedicated to the sale of handbags, wallets and technological articles for a general public.
+This template provides the structure and layout for a "Ecommerce" website.
 
-### Requirements
-Basic knowledge of:
+## Sample Screenshots
 
-:star2: Html   
-:star2: Css  
-:star2: Javascript and  
-:star2: Responsive web design
+<img width="1097" alt="image" src="https://github.com/GoodbyeKittyy/Ecommerce-Website-Template/assets/161730857/4e8583b8-8fee-44cf-b92f-60893154e5f8"></br>
 
-### Screenshot
-![](https://scontent.fccs3-1.fna.fbcdn.net/v/t1.15752-9/122988818_1232240307159096_8110165093359567616_n.jpg?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_ohc=PT7yV1i-WLsAX_Xqffm&_nc_ht=scontent.fccs3-1.fna&oh=340308e92f2e559d271e902442507e53&oe=5FBB6871)
+<img width="1101" alt="image" src="https://github.com/GoodbyeKittyy/Ecommerce-Website-Template/assets/161730857/57f8d195-f959-4bbf-96c5-84a3b063bf6d"></br>
 
-### Built With
-- [Sublime Text](https://www.sublimetext.com/)
-- [Pixabay](https://pixabay.com/es/)
+<img width="1107" alt="image" src="https://github.com/GoodbyeKittyy/Ecommerce-Website-Template/assets/161730857/6cf5d748-c174-47df-b39b-3e973d518c9a"></br>
 
-### Authors 
-[Miriali López Melean](https://github.com/Miriali) :woman_technologist:
+<img width="1099" alt="image" src="https://github.com/GoodbyeKittyy/Ecommerce-Website-Template/assets/161730857/76ed2d67-fd08-4461-a349-6ee96e277bbf"></br>
 
-### License
-This project is open-source feel free to use it as you wish.
-
-### Stay In Touch
-- [Codepen](https://codepen.io/your-work/) 
-- [Twitter](https://twitter.com/miricailopez)
+<img width="1100" alt="image" src="https://github.com/GoodbyeKittyy/Ecommerce-Website-Template/assets/161730857/34b660c6-f7a7-42bc-bc69-459ef0c9c741"></br>
