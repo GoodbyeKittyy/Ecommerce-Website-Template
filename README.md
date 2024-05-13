@@ -1,6 +1,6 @@
 ## Description
 
-This template provides the structure and layout for a "Ecommerce" website.
+This template provides the structure and layout for a "E-commerce" website.
 
 ## Sample Screenshots
 
